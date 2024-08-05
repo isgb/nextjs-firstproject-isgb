@@ -10,6 +10,9 @@ export const metadata = {
   keywords: "next, react, app",
 };
 
+// https://www.youtube.com/watch?v=H_s-xM6Ii1g&list=PLo5lAe9kQrwqPBOPX_Usxe123P_-VngDn&index=15
+// 36:28 / 1:01:04
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
