@@ -1,3 +1,9 @@
 npm i -g vercel
 vercel
 - enlazar con github
+? Set up and deploy “~\Documents\Tu Primer Aplicación Web en Nextjs13 fazt\nextjs-firstproject-isgb”? yes
+? Which scope do you want to deploy to? isgb's projects
+? Link to existing project? no
+? What’s your project’s name? nextjs-firstproject-isgb
+? In which directory is your code located? ./
+? Want to modify these settings? no
