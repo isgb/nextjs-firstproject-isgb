@@ -1,0 +1,3 @@
+npm i -g vercel
+vercel
+- enlazar con github
